@@ -1,6 +1,5 @@
 
 const Discord = require('discord.js');
-const config = require('./config/config');
 const PREFIX = "b!";
 var bot = new Discord.Client();
 const botStats = {};
