@@ -2,7 +2,7 @@
   "name": "uwu",
   "version": "1.0.0",
   "description": "",
-  "main": "uwu",
+  "main": "index.js",
   "dependencies": {
     "discord.js": "^12.3.1"
   },
